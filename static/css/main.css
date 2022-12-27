@@ -13,7 +13,7 @@ html {
 
 a {
   text-decoration: none;
-  color: rgb(93, 93, 255);
+  color: rgb(157, 157, 249);
   font-family: "Montserrat";
 }
 
@@ -172,7 +172,7 @@ p {
     width: 100%;
   }
   .contact {
-    gap: 35px;
+    gap: 55px;
   }
   .image-container {
     width: 325px;
