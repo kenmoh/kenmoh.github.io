@@ -46,7 +46,8 @@ body {
 
 h1 {
   font-family: "Audiowide", cursive;
-  font-size: 42px;
+  font-size: 30px;
+  font-weight: 100;
 }
 h4 {
   font-family: "Audiowide", cursive;
@@ -133,6 +134,7 @@ p {
   border-radius: 5px;
   padding: 5px 10px;
   transition: all ease-in;
+  color: grey;
 }
 
 .nav a:hover {
