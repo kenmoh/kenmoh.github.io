@@ -141,3 +141,7 @@ p {
   background-color: grey;
   color: whitesmoke;
 }
+
+.contact a:hover {
+  color: grey;
+}
