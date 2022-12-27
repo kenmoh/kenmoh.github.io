@@ -155,9 +155,9 @@ p {
   color: grey;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 680px) {
   .container {
-    width: 90%;
+    width: 85%;
     margin: 100px auto;
   }
   .header-wrapper {
