@@ -154,9 +154,6 @@ p {
 .contact a:hover {
   color: grey;
 }
-.contact a:visited {
-  color: rgb(157, 157, 249);
-}
 
 @media only screen and (max-width: 680px) {
   .container {
